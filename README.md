@@ -27,13 +27,13 @@ Desenvolvedor **Full Stack** em Blumenau, SC. Construo produtos web completos, d
 | Projeto | O que é | Stack | Demo |
 |---|---|---|---|
 | [invest-portal](https://github.com/GS-suzuki13/invest-portal) | Plataforma de gestão de investimentos: portal do investidor e painel da gestora | React, TypeScript, Express, Sequelize | [abrir](https://invest-portal-six.vercel.app) |
-| [VetClinicManager](https://github.com/GS-suzuki13/VetClinicManager) | Sistema de gestão para clínicas veterinárias | React, TypeScript, Supabase | [abrir](https://vet-clinic-manager.vercel.app) |
+| [VetClinicManager](https://github.com/GS-suzuki13/VetClinicManager) | Gestão de clínicas veterinárias: agenda, prontuários, vacinas, internação e financeiro | React, TypeScript, Supabase | [abrir](https://vet-clinic-manager.vercel.app) |
 | [mimoqr](https://github.com/GS-suzuki13/mimoqr) | Mensagens surpresa por QR Code: texto, foto, áudio ou vídeo | Next.js, Vercel Blob | [abrir](https://mimoqr.vercel.app) |
 | [bela10](https://github.com/GS-suzuki13/bela10) | Loja de cosméticos com checkout Pix, CEP via ViaCEP e pedido no WhatsApp | HTML, CSS, JavaScript | [abrir](https://bela10.vercel.app) |
-| [fatias-coracao](https://github.com/GS-suzuki13/fatias-coracao) | Site e cardápio para confeitaria | Next.js, TypeScript | [abrir](https://fatiascoracao.vercel.app) |
+| [fatias-coracao](https://github.com/GS-suzuki13/fatias-coracao) | Site da Fatias do Coração | Next.js, TypeScript | [abrir](https://fatiascoracao.vercel.app) |
 | [unifique-todo-app](https://github.com/GS-suzuki13/unifique-todo-app) | Gerenciador de tarefas full stack com API REST | React, FastAPI, Docker | — |
 
 ## 📫 Contato
 
-- 🌐 Portfólio: [suzuki-portifolio.vercel.app](https://suzuki-portifolio.vercel.app)
+- 🌐 Portfólio: [gustavosuzuki.vercel.app](https://gustavosuzuki.vercel.app)
 - 💼 Aberto a oportunidades como desenvolvedor Full Stack / Front-end
